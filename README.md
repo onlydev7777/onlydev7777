@@ -73,9 +73,7 @@
     <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=Next.js&logoColor=white" />
   </p>
 </div>
-<h1>Velog</h1>
-<div>
-  <p>
-    [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=onlydev7777&color=black)](https://velog.io/@onlydev7777)
-  </p>
-</div>
+
+
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=onlydev7777&tag=github)](https://velog.io/@onlydev7777/Service-%ED%81%B4%EB%9E%98%EC%8A%A4-%EC%B6%94%EC%83%81%ED%99%94)
+
