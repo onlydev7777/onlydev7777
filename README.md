@@ -74,6 +74,7 @@
   </p>
 </div>
 
+<h1>✌️ Velog</h1>
 
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=onlydev7777)](https://velog.io/@onlydev7777/Service-%ED%81%B4%EB%9E%98%EC%8A%A4-%EC%B6%94%EC%83%81%ED%99%94)
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=onlydev7777)](https://velog.io/@onlydev7777/%ED%86%A0%EC%9D%B4%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8MSA-%EA%B0%90%EC%A0%95%EC%9D%BC%EA%B8%B0%EC%9E%A5-6-Spring-Cloud-Config-%EC%97%B0%EB%8F%99)
 
