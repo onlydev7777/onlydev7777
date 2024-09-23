@@ -63,7 +63,7 @@
   </p>
 </div>
 
-<h1>✅ Interested In.. TODO.. </h1>
+<h1>✅ Interested In.. </h1>
 <div>
   <p>
     <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" />
