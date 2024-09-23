@@ -1,4 +1,4 @@
-<h3>🔥 Back-End </h3>
+<h1>🔥 Back-End </h1>
 <div>
 <!-- <img src="https://img.shields.io/badge/{배지에 표시될 이름}-{배지 배경 색상}?styled=for-the-badge&logo={배지 로고}&logoColor={로고 색상} /> -->
   <p>
@@ -25,7 +25,7 @@
   </p>
 </div>
 
-<h3>🔥 MSA </h3>
+<h1>🔥 MSA </h1>
 <div>
   <p>
     <img src="https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" />
@@ -36,7 +36,7 @@
   </p>
 </div>
 
-<h3>🔥 DBMS </h3>
+<h1>🔥 DBMS </h1>
 <div>
   <p>
     <img src="https://img.shields.io/badge/Redis-FF4438?style=for-the-badge&logo=Redis&logoColor=white" />
@@ -46,7 +46,7 @@
   </p>
 </div>
 
-<h3>🔥 Linux </h3>
+<h1>🔥 Linux </h1>
 <div>
   <p>
     <img src="https://img.shields.io/badge/Centos-262577?style=for-the-badge&logo=Centos&logoColor=white" />
@@ -54,7 +54,7 @@
   </p>
 </div>
 
-<h3>🔥 Front-End </h3>
+<h1>🔥 Front-End </h1>
 <div>
   <p>
     <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white" />
@@ -63,7 +63,7 @@
   </p>
 </div>
 
-<h3>✅ Interested In.. TODO.. </h3>
+<h1>✅ Interested In.. TODO.. </h1>
 <div>
   <p>
     <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" />
